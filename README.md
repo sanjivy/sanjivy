@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjivy
 - 👀 I’m interested in cloud security and developement
 - 🌱 I’m currently learning cloud development
-- 💞️ I’m looking to collaborate on with others learners
+- 💞️ I’m looking to collaborate  with others learners
 
 
 <!---
